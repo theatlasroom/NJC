@@ -1,1 +1,1 @@
-web: node observations/presentation/web.js
+web: node web.js
